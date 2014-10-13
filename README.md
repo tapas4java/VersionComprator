@@ -10,8 +10,8 @@ int result = comprator.compare("1.4.2", "1.4");<br/>
 
 It will return -1/0/1 based on the parameters passed:<br/>
 
--1 means 1st parameter < 2nd parameter
- 0 means 1st parameter = 2nd parameter
+-1 means 1st parameter < 2nd parameter<br/>
+ 0 means 1st parameter = 2nd parameter<br/>
  1 means 1st parameter > 2nd parameter
  
 Supported Formats:
